@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+      
+   <item android:id="@+id/restart"
+      android:title="Restart"
+      android:icon="@drawable/ship"
+      
+      android:orderInCategory="1" 
+      ></item>
+  
+   <item android:id="@+id/togglestate"
+      android:title="Pause"
+      android:icon="@drawable/ship"
+      android:orderInCategory="2" 
+      ></item>
+   
+   <item android:id="@+id/sound"
+      android:title="sound"
+      android:icon="@drawable/ship"
+
+      android:orderInCategory="3" 
+      ></item>
+   
+   <item android:id="@+id/menu"
+      android:title="Main Menu" 
+      android:icon="@drawable/ship"
+
+      android:orderInCategory="4" 
+      ></item>
+</menu>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Space Craft Ultimate</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_game">Space Craft Ultimate</string>
+    <string name="startbtn">Play Game</string>
+    <string name="exitbtn">Exit</string> 
+    <string name="scorebtn">Scores</string> 
+    
+</resources>
